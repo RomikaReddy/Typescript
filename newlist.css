@@ -1,0 +1,86 @@
+/* body{
+    background: linear-gradient(to left, rgba(0, 400, 200, 0), rgb(0, 255, 200));
+
+    
+} */
+body{
+    /* background-color: rgba(227, 233, 232, 0.966); */
+   
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+.header
+{
+    text-align:center;
+    margin-top:5%;
+    margin-left:20%;
+    margin-right:20%;
+    margin-bottom:5%;
+    clear:both;
+    background-color: rgba(31, 196, 207, 0.788);
+    width:60%;
+    height:5%;
+    color:white;
+    
+}
+.task
+{
+    width:60%;
+   padding:0%;
+    float:left;
+    height:30px;
+}
+.search
+{
+   
+  width:40%;
+  height:70%;
+  border-style: bold;
+ 
+ 
+}
+
+.btn
+{
+   
+  background-color: rgb(152, 206, 203);
+  width:10%;
+  color:white;
+  
+ 
+  height:70%;
+  cursor:pointer;
+}
+.taskinput
+{
+    width:40%;
+    height:70%;  
+}
+.task-table
+{
+    width:50%;
+    padding-top:4%;
+    float: left;
+}
+.deleteButton
+{
+    background-color: rgb(240, 182, 180);
+  width:60%;
+  height:100%;
+  cursor:pointer;
+}
+.select
+{
+    width:60%;
+    height:20px;
+    border-width: 1px;
+   
+    border-style: bold;
+}
+.checkbox
+{
+    width:70%;
+}
+.text
+{
+    padding-right:80%;
+}
